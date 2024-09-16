@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[alt='HTW Berlin'],
+img[alt='democ']
+ {
+    max-width: 20rem; 
+    display: block;
+    margin-bottom: 2rem;
+}
