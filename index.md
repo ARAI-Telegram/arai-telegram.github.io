@@ -12,6 +12,10 @@ Unsere Arbeit transferiert jüngste Forschungsergebnisse des Teams an der [HTW B
 
 01.06.2024 bis 30.11.2025
 
+## Vorraussichtliches Release
+
+Oktober/November 2025
+
 ## Mittelgeber
 
 [Bundesministerium für Bildung und Forschung (BMBF)](https://www.bmbf.de/)
