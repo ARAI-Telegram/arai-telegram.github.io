@@ -33,3 +33,6 @@ Unsere Arbeit transferiert jüngste Forschungsergebnisse des Teams an der [HTW B
 
 [![HTW Berlin](/assets/images/logos/htw-berlin.jpg)](https://htw-berlin.de)
 [![democ](/assets/images/logos/democ.png)](https://democ.de)
+
+## Kontakt
+teledash@democ.de
