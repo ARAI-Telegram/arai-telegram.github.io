@@ -31,7 +31,6 @@ Oktober/November 2025
 - Elisabeth Steffen (HTW Berlin)
 - Grischa Stanjek (democ)
 - Yannis Illies (democ)
-- Karolin Schwarz (democ)
 
 ## Kooperationspartner
 
