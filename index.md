@@ -24,7 +24,7 @@ Unsere Arbeit transferiert jüngste Forschungsergebnisse des Teams an der [HTW B
 
 ## Förderprogramm
 
-[DATIpilot](https://www.bmbf.de/bmbf/de/forschung/datipilot/datipilot_node.html)
+[DATIpilot](https://www.bmftr.bund.de/DE/Forschung/TransferInDiePraxis/Datipilot/datipilot_node.html)
 
 ## Projektteam
 
