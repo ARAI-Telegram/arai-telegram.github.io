@@ -12,9 +12,11 @@ Unsere Arbeit transferiert jüngste Forschungsergebnisse des Teams an der [HTW B
 
 01.06.2024 bis 30.11.2025
 
-## Voraussichtliches Release
+## Software
 
-Oktober/November 2025
+- [Frontend](https://github.com/ARAI-Telegram/teledash-frontend)
+- [Backend](https://github.com/ARAI-Telegram/teledash-backend)
+- [Machine Learning Backend](https://github.com/ARAI-Telegram/teledash-backend-processing) (optional)
 
 ## Mittelgeber
 
