@@ -14,6 +14,8 @@ Unsere Arbeit transferiert jüngste Forschungsergebnisse des Teams an der [HTW B
 
 ## Software
 
+Teledash besteht aus drei Repositories, die gesammelt [hier](https://github.com/orgs/ARAI-Telegram/repositories) einsehbar sind.
+Direktlinks:
 - [Frontend](https://github.com/ARAI-Telegram/teledash-frontend)
 - [Backend](https://github.com/ARAI-Telegram/teledash-backend)
 - [Machine Learning Backend](https://github.com/ARAI-Telegram/teledash-backend-processing) (optional)
